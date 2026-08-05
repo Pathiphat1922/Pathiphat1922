@@ -1,13 +1,10 @@
 # Hi there, I'm Pathiphat Sriburin 👋
 
-I am a Computer Science student with a strong technical foundation, currently focusing on **Software Testing / QA**, Backend Development, and Cybersecurity. I am passionate about ensuring software quality, identifying system vulnerabilities (such as SQL Injection and XSS), and delivering seamless user experiences through rigorous testing.
+I am a Computer Science student passionate about **Software Development**, focusing on backend architecture, database integration, and system security. I enjoy building robust RESTful APIs, developing scalable applications, and ensuring high software quality through rigorous testing. Whether it's writing clean code or identifying system vulnerabilities, I am always eager to tackle new technical challenges!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-**Testing & QA:**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,10 +21,11 @@ I am a Computer Science student with a strong technical foundation, currently fo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Tools & Design:**
+**Tools, Testing & Design:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
