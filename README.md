@@ -1,13 +1,3 @@
-# Hi there, I'm Pathiphat 👋
-
-I'm a Computer Science student specializing in backend and full-stack development. I have experience in building RESTful APIs, authentication systems, and database-driven applications. I am passionate about writing clean, secure, and scalable code.
-
-### 🚀 What I'm doing
-- 🔭 I’m currently working on **MarketBooker** (a market stall booking system) and **SISAKET Ready System** (dormitory management).
-- 🌱 I’m currently learning and implementing secure backend architecture like JWT Authentication and bcrypt.
-- 👯 I’m looking to collaborate on Open Source projects related to Web Development and Cybersecurity.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
