@@ -14,14 +14,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎓 Computer Science Student
-- 💻 Focused on **Backend Development**, **Database Integration**, and **System Security**
-- 🌱 Building robust RESTful APIs and scalable applications
-- 🔍 Passionate about identifying vulnerabilities and writing clean, tested code
-- ⚡ Always eager to tackle new technical challenges
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -54,28 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pathiphat228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathiphat228&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathiphat228&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathiphat228&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathiphat228&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
-
-> ⚠️ หมายเหตุ: แทนที่ `pathiphat228` ในลิงก์ด้านบนด้วย **GitHub username** จริงของคุณ (ถ้าไม่ตรงกับอีเมล) เพื่อให้สถิติดึงข้อมูลถูกต้อง
-
----
 
 ### 📫 How to Reach Me
 
