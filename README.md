@@ -43,7 +43,7 @@
 ---
 
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 <p align="left">
   <a href="mailto:pathiphat228@gmail.com">
