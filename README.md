@@ -1,12 +1,33 @@
-# HI there, I'm Pathiphat Sriburin 
+<h1 align="center">Hi 👋, I'm Pathiphat Sriburin</h1>
+<h3 align="center">A passionate Computer Science student focused on Backend Architecture, Database Integration & System Security</h3>
 
-I am a Computer Science student passionate about **Software Development**, focusing on backend architecture, database integration, and system security. I enjoy building robust RESTful APIs, developing scalable applications, and ensuring high software quality through rigorous testing. Whether it's writing clean code or identifying system vulnerabilities, I am always eager to tackle new technical challenges!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;RESTful+API+Enthusiast;Database+%26+System+Security;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pathiphat228&label=Profile%20views&color=0e75b6&style=flat" alt="pathiphat228" />
+  <img src="https://img.shields.io/github/followers/pathiphat228?label=Follow&style=social" alt="followers" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Focused on **Backend Development**, **Database Integration**, and **System Security**
+- 🌱 Building robust RESTful APIs and scalable applications
+- 🔍 Passionate about identifying vulnerabilities and writing clean, tested code
+- ⚡ Always eager to tackle new technical challenges
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,13 +36,15 @@ I am a Computer Science student passionate about **Software Development**, focus
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database:**
+**Backend & Database**
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Tools, Testing & Design:**
+**Tools, Testing & Design**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -31,9 +54,41 @@ I am a Computer Science student passionate about **Software Development**, focus
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pathiphat228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathiphat228&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathiphat228&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathiphat228&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pathiphat228&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+</p>
+
+> ⚠️ หมายเหตุ: แทนที่ `pathiphat228` ในลิงก์ด้านบนด้วย **GitHub username** จริงของคุณ (ถ้าไม่ตรงกับอีเมล) เพื่อให้สถิติดึงข้อมูลถูกต้อง
+
 ---
 
-### 📫 How to reach me
-- **Email:** pathiphat228@gmail.com
-- **Line ID:** thissave
-- **Phone:** 096-338-5715
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="mailto:pathiphat228@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://line.me/ti/p/~thissave">
+    <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Phone-096--338--5715-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to reach out.</i></p>
