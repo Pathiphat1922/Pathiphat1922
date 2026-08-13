@@ -31,10 +31,6 @@ I am a Computer Science student passionate about **Software Development**, focus
 
 ---
 
-### 📈 GitHub Stats
-
-[![Pathiphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathiphat1922&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 How to reach me
