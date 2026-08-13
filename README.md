@@ -1,5 +1,5 @@
 <h1 align="center">Hi  I'm Pathiphat Sriburin</h1>
-<h3 align="center">A passionate Computer Science student and Software Developer focused on Architecture, Database Integration & System Security</h3>
+<h3 align="center">A passionate Computer Science student </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
