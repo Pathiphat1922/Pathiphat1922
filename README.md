@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pathiphat Sriburin</h1>
+<h1 align="center">Hi  I'm Pathiphat Sriburin</h1>
 <h3 align="center">A passionate Computer Science student focused on Backend Architecture, Database Integration & System Security</h3>
 
 <p align="center">
